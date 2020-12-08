@@ -1,6 +1,6 @@
 # **Womens-E-Commerce-Clothing-Reviews**
+![tips-for-buying-womens-clothes-online-main-image-1160x720](https://user-images.githubusercontent.com/70929605/101458204-91944d80-3904-11eb-8a31-de04610f85e7.jpg)
 
-![americandiabetes](https://user-images.githubusercontent.com/70929605/95784951-d1430e00-0ca2-11eb-814a-36cdaccb1076.JPG)
 
 
 ## **Table of Content**
@@ -27,7 +27,8 @@ Presentation    : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Pre
 2. Classification Model : Logistic regression model , Decision Tree model ,and Random Foreset were used and evaluated to find the highest accuracy in our prediction.
 
 ## **Motivation and Background**
-![fastfacts](https://user-images.githubusercontent.com/70929605/95785162-3d257680-0ca3-11eb-8cdf-26b2d4d49708.JPG)
+![vector-illustration-monitor-with-tent-online-shop-words-vector-illustration_100456-105](https://user-images.githubusercontent.com/70929605/101458164-85a88b80-3904-11eb-8248-73816520ca39.jpg)
+
 
 According to CDC's National Diabetes Statistics Report, 10.5% (34.2 million people) of USA's total population had diabetes in 2018's records. When looking at the reports over the years, it is clear that the rate is increasing yearly. In 2000, the percentage of people with diabetes was 4.4%, which means that is has more than doubled over 18 years. This caught my attention and encouraged me to look into data about diabetes. I will be looking at the different health factors and see which influences a patient to have diabetes, along with predicting diabetes with the different factors. 
 
