@@ -28,7 +28,6 @@ Executive Code  : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Cod
 ![vector-illustration-monitor-with-tent-online-shop-words-vector-illustration_100456-105](https://user-images.githubusercontent.com/70929605/101458164-85a88b80-3904-11eb-8248-73816520ca39.jpg)
 
 
-According to CDC's National Diabetes Statistics Report, 10.5% (34.2 million people) of USA's total population had diabetes in 2018's records. When looking at the reports over the years, it is clear that the rate is increasing yearly. In 2000, the percentage of people with diabetes was 4.4%, which means that is has more than doubled over 18 years. This caught my attention and encouraged me to look into data about diabetes. I will be looking at the different health factors and see which influences a patient to have diabetes, along with predicting diabetes with the different factors. 
 
 ## **Data**
 The dataset is obtained from [Kaggle (Women’s Clothing E-Commerce dataset)](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews), originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient (female, over age 20) has diabetes, based on certain diagnostic measurements included in the dataset. It includes 2000 observations, each representing an individual. 
@@ -68,10 +67,11 @@ Related Studies
 
 1. Agarap, Abien Fred. (2018). Statistical Analysis on E-Commerce Reviews, with Sentiment Classification using Bidirectional Recurrent Neural Network. 
 
+2. MOE, W., & TRUSOV, M. (2011). The Value of Social Dynamics in Online Product Ratings Forums. Journal of Marketing Research, 
+48(3), 444-456. Retrieved December 8, 2020, from http://www.jstor.org/stable/23033850
 
-2. MOE, W., & TRUSOV, M. (2011). The Value of Social Dynamics in Online Product Ratings Forums. Journal of Marketing Research, 48(3), 444-456. Retrieved December 8, 2020, from http://www.jstor.org/stable/23033850
-
-3. Zhu, F., & Xiaoquan (Michael) Zhang. (2010). Impact of Online Consumer Reviews on Sales: The Moderating Role of Product and Consumer Characteristics. Journal of Marketing, 74(2), 133-148. Retrieved December 8, 2020, from http://www.jstor.org/stable/20619095
+3. Zhu, F., & Xiaoquan (Michael) Zhang. (2010). Impact of Online Consumer Reviews on Sales: The Moderating Role of Product and Consumer Characteristics. 
+Journal of Marketing, 74(2), 133-148. Retrieved December 8, 2020, from http://www.jstor.org/stable/20619095
 
 </pre>
 
