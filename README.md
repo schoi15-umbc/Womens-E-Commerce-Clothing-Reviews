@@ -30,8 +30,7 @@ Executive Code  : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Cod
 
 
 ## **Data**
-The dataset is obtained from [Kaggle (Women’s Clothing E-Commerce dataset)](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews). The dataset was taken from real commercial data and has been anonymized along with replacing the company's name in the review text and body to “retailer”. There are 23486orders and 10 different features, which are explained below.
-There are 9 Columns: 
+The dataset is obtained from [Kaggle (Women’s Clothing E-Commerce dataset)](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews). The dataset was taken from real commercial data and has been anonymized along with replacing the company's name in the review text and body to  “retailer”. There are 23486 orders and 10 different features containing categorical and numerical data, which are explained in detail below. 
 
 1) Clothing ID: Integer Categorical variable that refers to the specific piece being reviewed.
 
