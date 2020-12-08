@@ -22,10 +22,12 @@ Executive Code  : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Cod
 
 ## **Goals**
 1. Data Preparation     : Cleaning data, and creating visualizations for deeper understanding of the dataset. 
-2. Classification Model : Logistic regression model , Decision Tree model ,and Random Foreset were used and evaluated to find the highest accuracy in our prediction.
+2. Classification Model : Using differenct Machinle Learning Algorithms such as Logistic regression model , Decision Tree model ,and Random Foreset to evaluate and find the best  accuracy for our prediction.
 
 ## **Motivation and Background**
 ![vector-illustration-monitor-with-tent-online-shop-words-vector-illustration_100456-105](https://user-images.githubusercontent.com/70929605/101458164-85a88b80-3904-11eb-8248-73816520ca39.jpg)
+
+Applied Machine Learning for Ranking Products in an Ecommerce Setting by 2 data scientists, Wehkamp Jerry Vos and Arnoud de Munnik, [Youtube (Spark+AI SUMMIT 2019)](https://www.youtube.com/watch?v=6BGCn3h59nA&ab_channel=Databricks
 
 
 
