@@ -16,7 +16,7 @@
 This project's goal is to help the E-Commerce company with their promotion plan and goes step by step from Data Cleaning, Exploratory Data Analysis (Visualization & Correlation), Modeling & Evaluation, and conclusion. In data cleaning, I try to find missing values and outliers, in EDA I have included basic information about the dataset being used along with several visualizations for better understanding. In modeling and evaluation, three different models, Logistic Regression, Decision Tree, and Random Forest are performed along with confusion matrix to evaluate our models All of our models end up getting a high accuracy score. 
 
 <pre>
-Executive Code  : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Codes/Diabetes_Report.ipynb>Executive Notebook </a> </a>
+Executive Code  : <a href=https://github.com/schoi15-umbc/Womens-E-Commerce-Clothing-Reviews/blob/main/Codes/Technical_Notebook_withSummary.ipynb>Executive Notebook </a> </a>
 
 </pre>
 
