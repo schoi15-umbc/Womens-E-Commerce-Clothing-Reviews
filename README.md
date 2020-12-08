@@ -27,7 +27,7 @@ Executive Code  : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Cod
 ## **Motivation and Background**
 ![vector-illustration-monitor-with-tent-online-shop-words-vector-illustration_100456-105](https://user-images.githubusercontent.com/70929605/101458164-85a88b80-3904-11eb-8248-73816520ca39.jpg)
 
-Applied Machine Learning for Ranking Products in an Ecommerce Setting by 2 data scientists, Wehkamp Jerry Vos and Arnoud de Munnik, [Youtube (Spark+AI SUMMIT 2019)](https://www.youtube.com/watch?v=6BGCn3h59nA&ab_channel=Databricks
+Applied Machine Learning for Ranking Products in an Ecommerce Setting by 2 data scientists, Wehkamp Jerry Vos and Arnoud de Munnik, [Youtube (Spark+AI SUMMIT 2019)](https://www.youtube.com/watch?v=6BGCn3h59nA&ab_channel=Databricks) 
 
 
 
