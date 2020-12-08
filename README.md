@@ -27,7 +27,10 @@ Executive Code  : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Cod
 ## **Motivation and Background**
 ![vector-illustration-monitor-with-tent-online-shop-words-vector-illustration_100456-105](https://user-images.githubusercontent.com/70929605/101458164-85a88b80-3904-11eb-8248-73816520ca39.jpg)
 
-At the Spark+AI SUMMIT 2019, 2 data scientists from the company Wehkamp, Jerry Vos and Arnoud de Munnik, had a conference titled 'Applied Machine Learning for Ranking Products in an Ecommerce Setting'. Wekham is an As a leading e-commerce company in fashion in the Netherlands, and their data science team developed various machine learning projects based on the large scale dtata of products and customers they had with using Spark. Specifially focusing on the ranking of products, the team were able to use Spark on retrieving and processing the search phrases and their results, making click models, creating feature sets, training and evaluating ranking models, pushing the models to production using ElasticSearch and creating Tableau dash-boarding. You can watch the conference [here.](https://www.youtube.com/watch?v=6BGCn3h59nA&ab_channel=Databricks) 
+E-Commerce is currently one of the fastest and dynamically evolving industries in the world, and data science/ machine learning is playing a huge role in it. There are 5 data science projects that every e-commerce company should do. First is to create a reccomendation system, which is a a subclass of information filtering system that seeks to predict the “rating” or “preference” a user would give to an item. Some popular recommendation systems are Collaborative filtering, Content Based Filtering, and Hybrid Recommendation Filtering. Second is Customer Lifetime Value Modelling, which predicts the net profit attributed to the entire future relationship with a customer. It helps the e-commerce company in several ways such as defining objectives for the company, optimising business marketing strategies, adjusgting campaign and advertisement, and so on. 
+
+
+At the Spark+AI SUMMIT 2019, 2 data scientists from the company Wehkamp, Jerry Vos and Arnoud de Munnik, had a conference titled 'Applied Machine Learning for Ranking Products in an Ecommerce Setting'. Wekham is an As a leading e-commerce company in fashion in the Netherlands, and their data science team developed various machine learning projects based on the large scale dtata of products and customers they had with using Spark. Specifially focusing on the ranking of products, the team were able to use Spark on retrieving and processing the search phrases and their results, making click models, creating feature sets, training and evaluating ranking models, pushing the models to production using ElasticSearch and creating Tableau dash-boarding. You can watch the conference and get more details [here.](https://databricks.com/session_eu19/applied-machine-learning-for-ranking-products-in-an-ecommerce-setting) 
 
 
 
@@ -71,8 +74,11 @@ Related Studies
 2. MOE, W., & TRUSOV, M. (2011). The Value of Social Dynamics in Online Product Ratings Forums. Journal of Marketing Research, 
 48(3), 444-456. Retrieved December 8, 2020, from http://www.jstor.org/stable/23033850
 
+3. Munnik, A. D., & Vos, J. (2019, October). Applied Machine Learning for Ranking Products in an Ecommerce Setting. Conference session presented at Spark+AI SUMMIT 2019. from https://databricks.com/session_eu19/applied-machine-learning-for-ranking-products-in-an-ecommerce-setting
+
 3. Zhu, F., & Xiaoquan (Michael) Zhang. (2010). Impact of Online Consumer Reviews on Sales: The Moderating Role of Product and Consumer Characteristics. 
 Journal of Marketing, 74(2), 133-148. Retrieved December 8, 2020, from http://www.jstor.org/stable/20619095
+
 
 </pre>
 
