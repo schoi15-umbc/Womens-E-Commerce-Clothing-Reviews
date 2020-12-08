@@ -49,7 +49,7 @@ The dataset is obtained from [Kaggle (Women’s Clothing E-Commerce dataset)](ht
 
 5) Rating: Positive Ordinal Integer variable for the product score granted by the customer from 1 Worst, to 5 Best.
 
-6) Recommended IND: Binary variable stating where the customer recommends the product where 1 is recommended, 0 is not recommended.
+6) Recommended IND: Binary variable stating where the customer recommends the product where 1 is recommended, 0 is not recommended. This will be our target variable.
 
 7) Positive Feedback Count: Positive Integer documenting the number of other customers who found this review positive.
 
