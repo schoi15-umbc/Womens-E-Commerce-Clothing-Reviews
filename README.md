@@ -30,7 +30,7 @@ Executive Code  : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Cod
 
 
 ## **Data**
-The dataset is obtained from [Kaggle (Women’s Clothing E-Commerce dataset)](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews), originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient (female, over age 20) has diabetes, based on certain diagnostic measurements included in the dataset. It includes 2000 observations, each representing an individual. 
+The dataset is obtained from [Kaggle (Women’s Clothing E-Commerce dataset)](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews). The dataset was taken from real commercial data and has been anonymized along with replacing the company's name in the review text and body to “retailer”. There are 23486orders and 10 different features, which are explained below.
 There are 9 Columns: 
 
 1) Clothing ID: Integer Categorical variable that refers to the specific piece being reviewed.
