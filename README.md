@@ -18,8 +18,6 @@ This project is to see if we can predict diabetes based on 8 different factors b
 <pre>
 Executive Code  : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Codes/Diabetes_Report.ipynb>Executive Notebook </a> </a>
 
-Presentation    : <a href=https://github.com/schoi15-umbc/Diabetes/blob/main/Presentation/Diabetes_Presentation_Preview.pdf>Presentation Preview </a></a>
-
 </pre>
 
 ## **Goals**
@@ -68,18 +66,12 @@ Libraries: pandas, seaborn, numpy, matplotlib, sklearn, scipy
 <pre>
 Related Studies
 
-1. Center of Disease Control and Prevention (CDC). (2020). National Diabetes Statistics Report, 2020 . 
-Retrieved from US department of Health and Human Services website:
-https://www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf <a href=https://www.cdc.gov/diabetes/pdfs/data/statistics/national-diabetes-statistics-report.pdf>Link</a>
+1. Agarap, Abien Fred. (2018). Statistical Analysis on E-Commerce Reviews, with Sentiment Classification using Bidirectional Recurrent Neural Network. 
 
 
-2. Sisodia, D., & Sisodia, D. S. (2018). Prediction of diabetes using classification algorithms. 
-Procedia Computer Science, 132, 1578-1585. doi:10.1016/j.procs.2018.05.122 <a href=https://reader.elsevier.com/reader/sd/pii/S1877050918308548?token=A7FEE310F8811BAA3534C1445A9ED03CC4CBB7C487AA3D4EAF6A32F69B01D7530B8F4FF21BC983425FC92D5389515EC4>Link</a>
+2. MOE, W., & TRUSOV, M. (2011). The Value of Social Dynamics in Online Product Ratings Forums. Journal of Marketing Research, 48(3), 444-456. Retrieved December 8, 2020, from http://www.jstor.org/stable/23033850
 
-3. Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). 
-Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. 
-In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). 
-IEEE Computer Society Press. <a href=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245318/pdf/procascamc00018-0276.pdf>Link</a>
+3. Zhu, F., & Xiaoquan (Michael) Zhang. (2010). Impact of Online Consumer Reviews on Sales: The Moderating Role of Product and Consumer Characteristics. Journal of Marketing, 74(2), 133-148. Retrieved December 8, 2020, from http://www.jstor.org/stable/20619095
 
 </pre>
 
