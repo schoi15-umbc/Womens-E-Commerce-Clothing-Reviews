@@ -21,9 +21,10 @@ Executive Code  : <a href=https://github.com/schoi15-umbc/Womens-E-Commerce-Clot
 </pre>
 
 ## **Goals**
-1. Data Preparation     : Cleaning data, and creating visualizations for deeper understanding of the dataset. 
-2. Classification Model : Using differenct Machinle Learning Algorithms such as Logistic regression model , Decision Tree model ,and Random Foreset to evaluate and find the best  accuracy for our prediction. 
-3. Busuiness Goal       : The E-commerce company's annual goal is ot increase the number of customers. Our goal is to have our existing customers bring in new customers based off of a review rewards program. The more number of reviews and reccomendations that the customers submit, they get points to use for their next purchase. As a data scientist of the company, my team will be using the data that the compnay has collected and apply different regression models to predict the accuracy of customer reccomendations. 
+1.	Data Preparation : Cleaning data, and creating visualizations for deeper understanding of the dataset.
+2.	Classification Model : Using different Machine Learning Algorithms such as Logistic regression model , Decision Tree model ,and Random Forest to evaluate and find the best accuracy for our prediction.
+3.	Business Goal : The E-commerce company's annual goal is to increase the number of customers. Our goal is to have our existing customers bring in new customers based off of a review rewards program. The greater number of reviews and recommendations that the customers submit, they get points to use for their next purchase. As a data scientist of the company, my team will be using the data that the company has collected and apply different regression models to predict the accuracy of customer recommendations.
+
 
 ## **Motivation and Background**
 ![vector-illustration-monitor-with-tent-online-shop-words-vector-illustration_100456-105](https://user-images.githubusercontent.com/70929605/101458164-85a88b80-3904-11eb-8248-73816520ca39.jpg)
